@@ -50,7 +50,8 @@ Ref: https://www.overleaf.com/learn/latex/Hyperlinks
 	\usepackage{graphicx} 
 	\graphicspath{{images/}}
 	```
-- To add figure
+- To add figure	
+	Ref : https://www.overleaf.com/learn/latex/Inserting_Images   
 	```
 	% for subplot setting
 	\usepackage{caption}
